@@ -1,0 +1,52 @@
+{
+  "professeur": [
+    {
+      "id": "101",
+      "nom": "Bayane",
+      "prenom": "MiguelS",
+      "email": "bayane.miguel@univ.edu",
+      "telephone": "0348349886",
+      "specialite": "Bases de Données, Big Data",
+      "departement": "Informatique",
+      "role": "Encadreur",
+      "etudiantsEncadres": [
+        1
+      ]
+    },
+    {
+      "id": "102",
+      "nom": "Rakotosoa",
+      "prenom": "Fabrice",
+      "email": "rakotosoa.fabrice@univ.edu",
+      "telephone": "0328349886",
+      "specialite": "Réseaux, Sécurité",
+      "departement": "Télécommunications",
+      "role": "Enseignant",
+      "etudiantsEncadres": [
+        2
+      ]
+    },
+    {
+      "id": "103",
+      "nom": "Razafindraibe",
+      "prenom": "Sandrolin",
+      "email": "razafindraibe.sandrolin@univ.edu",
+      "telephone": "0338678900",
+      "specialite": "Développement Web, UX/UI",
+      "departement": "Informatique",
+      "role": "Enseignant",
+      "etudiantsEncadres": []
+    },
+    {
+      "id": 104,
+      "nom": "Kevines",
+      "prenom": "Princy",
+      "email": "kevine@gmail.com",
+      "telephone": "0345678904",
+      "specialite": "Developpement web",
+      "departement": "Informatique",
+      "role": "Encadreur",
+      "etudiantsEncadres": []
+    }
+  ]
+}
